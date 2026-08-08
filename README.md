@@ -81,7 +81,6 @@ I work on real production ML systems in an enterprise manufacturing environment 
 
 </div>
 
-> ⚠️ Diese Grafik erscheint erst, sobald die GitHub Action einmal gelaufen ist (siehe Setup unten der Nachricht).
 
 ---
 
