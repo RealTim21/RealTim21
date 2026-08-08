@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F5D4&height=200&section=header&text=Tim%20May&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20%26%20Production%20Systems&descAlignY=55&descSize=18" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F5D4&height=200&section=header&text=Tim%20May&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20and%20Production%20Systems&descAlignY=55&descSize=18" alt="header banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+ML+Anomaly+Detection+%40+ZF;Founder+%40+IronMoose;Go+%2F+Next.js+%2F+Swift+%2F+Python+%2F+Supabase" alt="Typing SVG" />
 
@@ -54,6 +54,16 @@ I work on real production ML systems in an enterprise manufacturing environment 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sage-xi-74.vercel.app/api?username=RealTim21&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-sage-xi-74.vercel.app/api/top-langs/?username=RealTim21&theme=radical&hide_border=true&layout=compact" alt="Top Langs" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=RealTim21&theme=radical&hide_border=true" alt="Streak Stats"/>
+
+</div>
 
 ### ✍️ Random Dev Quote
 
@@ -71,6 +81,7 @@ I work on real production ML systems in an enterprise manufacturing environment 
 
 </div>
 
+> ⚠️ Diese Grafik erscheint erst, sobald die GitHub Action einmal gelaufen ist (siehe Setup unten der Nachricht).
 
 ---
 
