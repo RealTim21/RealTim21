@@ -1,21 +1,82 @@
-# 💫 About Me:
-Hi I'm Tim👋<br>I’m a software developer in training, working in an enterprise-scale company on real production systems and large-scale applications.<br><br>My daily work includes Java and Python, designing and consuming REST APIs, working with databases, and building data-driven solutions using Databricks and Microsoft Azure. I’m used to structured development processes, scalable architectures, and writing code that actually ships.<br><br>Continuously leveling up my skills, exploring new technologies, and turning complex requirements into solid solutions 🚀
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tim+%F0%9F%91%8B;Software+Developer+%7C+ML+%26+Anomaly+Detection;Founder+%40+IronMoose;Building+Go+%2F+Next.js+%2F+Swift+%2F+Python" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just.tiim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tim May (www.linkedin.com/in/tim-may-3870b51ba)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:timmay654@yahoo.de) 
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RealTim21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RealTim21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTim21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💫 About Me
+
+```yaml
+role: Fachinformatiker Anwendungsentwicklung @ ZF Group
+focus: ML-based anomaly detection (CS-Flow / Anomalib) in production
+side_project: Founder @ IronMoose — Software, Web & App Development
+location: Bavaria, Germany 🇩🇪
+currently_building:
+  - Ancher    # ADHD-friendly habit tracker, no-streak philosophy
+  - Flare     # On-device AI emotional regulation app for ADHD adults
+  - Fristenmanagement SaaS  # Contract deadline tracking for German Mittelstand
+```
+
+I work on real production ML systems in an enterprise manufacturing environment by day, and design/ship my own products under **IronMoose** on the side — spanning iOS, web, and backend. I like turning ambiguous requirements into things that actually ship.
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-may-3870b51ba)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/just.tiim)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timmay654@yahoo.de)
+
+## 🚀 What I'm Working On
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Ancher** | ADHD-friendly habit tracker — no streaks, no pressure | Swift, SwiftUI, Supabase |
+| **Flare** | On-device AI "SOS" app for emotional dysregulation | Swift, Apple Foundation Models, HealthKit |
+| **Fristenmanagement SaaS** | Contract deadline tracking for SMEs w/o legal dept | Go, Next.js, Supabase |
+| **ML Anomaly Detection** | Production CS-Flow/Anomalib pipeline @ ZF | Python, Databricks, Azure |
+
+## 🛠️ Tech Stack
+
+**Languages & ML**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Web & Mobile**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white)
+
+**Data, Cloud & Infra**
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RealTim21&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealTim21&theme=radical&hide_border=true&layout=compact" alt="Top Langs" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=RealTim21&theme=radical&hide_border=true" alt="Streak Stats"/>
+
+</div>
 
 ### ✍️ Random Dev Quote
+
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=RealTim21&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=RealTim21&icon=9&color=6)](https://visitcount.itsvg.in)
+
+<sub>Built with ☕ and probably too many side projects.</sub>
+
+</div>
