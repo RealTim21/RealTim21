@@ -58,8 +58,8 @@ I work on real production ML systems in an enterprise manufacturing environment 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RealTim21&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealTim21&theme=radical&hide_border=true&layout=compact" alt="Top Langs" height="165"/>
+<img src="https://github-readme-stats-sage-xi-74.vercel.app/api?username=RealTim21&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-sage-xi-74.vercel.app/api/top-langs/?username=RealTim21&theme=radical&hide_border=true&layout=compact" alt="Top Langs" height="165"/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=RealTim21&theme=radical&hide_border=true" alt="Streak Stats"/>
 
