@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F5D4&height=200&section=header&text=Tim%20May&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20and%20Production%20Systems&descAlignY=55&descSize=18" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+ML+Anomaly+Detection+%40+ZF;Founder+%40+IronMoose;Go+%2F+Next.js+%2F+Swift+%2F+Python+%2F+Supabase" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+ML+Anomaly+Detection;Founder+%40+IronMoose;Go+%2F+Next.js+%2F+Swift+%2F+Python+%2F+Supabase" alt="Typing SVG" />
 
 </div>
 
 # 💫 About Me
 
 ```yaml
-role: Fachinformatiker Anwendungsentwicklung @ ZF Group
+role: Software Developer @ ZF Group
 focus: ML-based anomaly detection (CS-Flow / Anomalib) in production
 side_project: Founder @ IronMoose — Software, Web & App Development
 location: Bavaria, Germany 🇩🇪
