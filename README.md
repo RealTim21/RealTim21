@@ -73,6 +73,16 @@ I work on real production ML systems in an enterprise manufacturing environment 
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RealTim21/RealTim21/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
+> ⚠️ Diese Grafik erscheint erst, sobald die GitHub Action einmal gelaufen ist (siehe Setup unten der Nachricht).
+
 ---
 
 <div align="center">
