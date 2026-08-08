@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tim+%F0%9F%91%8B;Software+Developer+%7C+ML+%26+Anomaly+Detection;Founder+%40+IronMoose;Building+Go+%2F+Next.js+%2F+Swift+%2F+Python" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F5D4&height=200&section=header&text=Tim%20May&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20%26%20Production%20Systems&descAlignY=55&descSize=18" alt="header banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+ML+Anomaly+Detection+%40+ZF;Founder+%40+IronMoose;Go+%2F+Next.js+%2F+Swift+%2F+Python+%2F+Supabase" alt="Typing SVG" />
 
 </div>
 
