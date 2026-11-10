@@ -32,8 +32,8 @@ I work on real production ML systems in an enterprise manufacturing environment 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[HumanTLS](https://github.com/RealTim21/HumanTLS)** | Proof-of-human verification — checks whether a real person is behind a call or message, instead of an AI or a deepfake (co-founded with Oliver, I'm CTO) | Python, Supabase |
-| **[RealEstateTool](https://github.com/RealTim21/RealEstateTool)** | Deadline and index-rent tracking for commercial leases, built for SMEs without a legal department | Go, Next.js, Supabase |
+| **[HumanTLS]** | Proof-of-human verification — checks whether a real person is behind a call or message, instead of an AI or a deepfake (co-founded with Oliver, I'm CTO) | Python, Supabase |
+| **[RealEstateTool]** | Deadline and index-rent tracking for commercial leases, built for SMEs without a legal department | Go, Next.js, Supabase |
 | **Flare** | On-device AI "SOS" app for emotional dysregulation (beta) | Swift, Apple Foundation Models, HealthKit |
 | **ML Anomaly Detection** | Production CS-Flow/Anomalib pipeline @ ZF | Python, Databricks, Azure |
 
