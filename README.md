@@ -2,24 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F5D4&height=200&section=header&text=Tim%20May&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20ML%20and%20Production%20Systems&descAlignY=55&descSize=18" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+ML+Anomaly+Detection;Founder+%40+IronMoose;Go+%2F+Next.js+%2F+Swift+%2F+Python+%2F+Supabase" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+ML+Anomaly+Detection;Co-founder+%26+CTO+%40+HumanTLS;Founder+%40+IronMoose;Python+%2F+Swift+%2F+Go+%2F+TypeScript" alt="Typing SVG" />
 
 </div>
 
 # 💫 About Me
 
 ```yaml
-role: Software Developer @ ZF Group
+role: Software Developer (apprentice) @ ZF Group
 focus: ML-based anomaly detection (CS-Flow / Anomalib) in production
+startup: Co-founder & CTO @ HumanTLS — proving there is a real human behind a call
 side_project: Founder @ IronMoose — Software, Web & App Development
-location: Bavaria, Germany 🇩🇪
+location: Lindau (Lake Constance), Germany 🇩🇪
 currently_building:
-  - Ancher    # ADHD-friendly habit tracker, no-streak philosophy
-  - Flare     # On-device AI emotional regulation app for ADHD adults
-  - Fristenmanagement SaaS  # Contract deadline tracking for German Mittelstand
+  - HumanTLS        # Verifying that a real human is on the other end
+  - RealEstateTool  # Deadline & index-rent tracking for commercial leases (DACH)
+  - Flare           # On-device AI emotional regulation app for ADHD adults (beta)
 ```
 
-I work on real production ML systems in an enterprise manufacturing environment by day, and design/ship my own products under **IronMoose** on the side — spanning iOS, web, and backend. I like turning ambiguous requirements into things that actually ship.
+I work on real production ML systems in an enterprise manufacturing environment by day, and build my own products on the side — co-founding **HumanTLS** and shipping iOS, web and backend work under **IronMoose**. I like turning ambiguous requirements into things that actually ship.
 
 ## 🌐 Connect
 
@@ -31,9 +32,9 @@ I work on real production ML systems in an enterprise manufacturing environment 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Ancher** | ADHD-friendly habit tracker — no streaks, no pressure | Swift, SwiftUI, Supabase |
-| **Flare** | On-device AI "SOS" app for emotional dysregulation | Swift, Apple Foundation Models, HealthKit |
-| **Fristenmanagement SaaS** | Contract deadline tracking for SMEs w/o legal dept | Go, Next.js, Supabase |
+| **[HumanTLS](https://github.com/RealTim21/HumanTLS)** | Proof-of-human verification — checks whether a real person is behind a call or message, instead of an AI or a deepfake (co-founded with Oliver, I'm CTO) | Python, Supabase |
+| **[RealEstateTool](https://github.com/RealTim21/RealEstateTool)** | Deadline and index-rent tracking for commercial leases, built for SMEs without a legal department | Go, Next.js, Supabase |
+| **Flare** | On-device AI "SOS" app for emotional dysregulation (beta) | Swift, Apple Foundation Models, HealthKit |
 | **ML Anomaly Detection** | Production CS-Flow/Anomalib pipeline @ ZF | Python, Databricks, Azure |
 
 ## 🛠️ Tech Stack
